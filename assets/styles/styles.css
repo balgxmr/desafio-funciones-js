@@ -1,0 +1,32 @@
+#key {
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  border: 2px solid black;
+  margin-top: 20px;
+}
+
+/* Estilos para los divs de colores */
+#blue {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+}
+
+#red {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
+
+#green {
+  width: 200px;
+  height: 200px;
+  background-color: green;
+}
+
+#yellow {
+  width: 200px;
+  height: 200px;
+  background-color: yellow;
+}
